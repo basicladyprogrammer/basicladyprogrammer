@@ -12,13 +12,13 @@
 
 - 📫 How to reach me **sutharsirajan@gmail.com**
 
-- 📄 Know about my experiences [[https://www.linkedin.com/in/sutharsi-rajan-4635641a1](https://www.linkedin.com/in/sutharsi-rajan-4635641a1?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B2ui8nr8hQFeRvfGN51JoGg%3D%3D)]([https://www.linkedin.com/in/sutharsi-rajan-4635641a1](https://www.linkedin.com/in/sutharsi-rajan-4635641a1?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B2ui8nr8hQFeRvfGN51JoGg%3D%3D))
+- 📄 Know about my experiences [[https://www.linkedin.com/in/sutharsi-rajan-4635641a1](https://www.linkedin.com/in/sutharsi-rajan-4635641a1?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B2ui8nr8hQFeRvfGN51JoGg%3D%3D)]
 
 - ⚡ Fun fact **I'm funny😎😋**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sutharsi-rajan-4635641a1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sutharsi-rajan-4635641a1" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/sutharsi-rajan-4635641a1?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B2ui8nr8hQFeRvfGN51JoGg%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sutharsi-rajan-4635641a1" height="30" width="40" /></a>
 <a href="https://medium.com/@sutharsirajan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sutharsirajan" height="30" width="40" /></a>
 </p>
 
