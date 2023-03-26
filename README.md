@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **sutharsirajan@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/sutharsi-rajan-4635641a1](https://www.linkedin.com/in/sutharsi-rajan-4635641a1)
+- 📄 Know about my experiences [[https://www.linkedin.com/in/sutharsi-rajan-4635641a1](https://www.linkedin.com/in/sutharsi-rajan-4635641a1?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B2ui8nr8hQFeRvfGN51JoGg%3D%3D)]([https://www.linkedin.com/in/sutharsi-rajan-4635641a1](https://www.linkedin.com/in/sutharsi-rajan-4635641a1?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B2ui8nr8hQFeRvfGN51JoGg%3D%3D))
 
 - ⚡ Fun fact **I'm funny😎😋**
 
