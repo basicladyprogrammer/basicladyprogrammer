@@ -2,7 +2,7 @@
 <h3 align="center">Passionate frontend developer and graphic designer.</h3>
 <h4 align="center">2nd year Software Engineering undergraduate of University of Kelaniya</h4><br>
 
-- ⚡ Checkit out MY Portfolio on https://basicladyprogrammer.github.io/My-Portfolio/ (https://basicladyprogrammer.github.io/My-Portfolio/)
+- ⚡ Checkit out MY Portfolio on https://basicladyprogrammer.github.io/My-Portfolio/
 
 - 🔭 I’m currently working on https://github.com/Elzian-Agro/Agro.git
 
