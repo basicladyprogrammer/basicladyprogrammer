@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Anatsutharsica</h1>
 <h3 align="center">Passionate frontend developer and UI/UX designer.</h3>
-<h4 align="center">Software Engineer Frontend Developer UI/UX Designer</h4><br>
+<h4 align="center">Software Engineer, Frontend Developer & UI/UX Designer</h4><br>
 
 - ⚡ Checkit out MY Portfolio on https://basicladyprogrammer.github.io/My-Portfolio/
 
-- 🔭 I’m currently working on https://github.com/Elzian-Agro/Agro.git
+- 🔭 I’m currently working on Club Management System
 
-- 🌱 I’m currently learning **Flutter, React, Kotlin**
+- 🌱 I’m currently learning **Python,NodeJs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/basicladyprogrammer](https://github.com/basicladyprogrammer)
 
